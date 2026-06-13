@@ -2,6 +2,14 @@
 
 A modern, responsive landing page featuring smooth animations, scroll reveals, and contemporary design patterns. Built with vanilla HTML, CSS, and JavaScript.
 
+## 🎥 Website Demo
+
+Watch the landing page in action:
+
+[![Animated Landing Page Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](Website%20Vedio.mp4)
+
+_[Add your demo video or GIF here]_
+
 ## Features
 
 ✨ **Smooth Animations**
